@@ -1,0 +1,186 @@
+Build a full-stack AI-powered web application called “CycleSync AI” — an intelligent menstrual health companion that goes beyond period tracking and acts as a personalized cycle performance optimizer.
+
+Core Vision
+
+This is not just a tracker.
+It is an AI-driven decision assistant for women that predicts, guides, and optimizes physical, emotional, nutritional, and productivity aspects across menstrual cycles.
+
+Must-Have Features
+1️⃣ Smart Period Tracker (Predictive + Adaptive)
+
+Track cycle length, flow, symptoms, mood
+
+AI learns from 3+ cycles and adapts predictions
+
+Confidence score for prediction accuracy
+
+Irregular cycle detection with alerts
+
+2️⃣ AI Symptom-to-Solution Engine (Unique Feature)
+
+User inputs:
+
+“Severe cramps”
+
+“Back pain”
+
+“Mood swings”
+
+“Bloating”
+
+App responds with:
+
+Instant remedy guide
+
+Diet suggestions (home-available foods)
+
+Safe stretches (with GIF/video)
+
+When to see a doctor
+
+Red flag detection
+
+Include:
+
+Severity scale system
+
+Emergency flagging logic
+
+3️⃣ Period Nutrition Planner (Location-Aware)
+
+Indian diet–based suggestions
+
+Iron-rich vegetarian & non-veg options
+
+Hydration calculator
+
+Grocery checklist
+
+3-day meal plan generator
+
+Anti-inflammatory food list
+
+What to avoid during heavy flow
+
+4️⃣ Cramp Relief Exercise Hub
+
+Categorized by intensity (mild / moderate / severe)
+
+5-min quick relief routine
+
+15-min guided yoga flow
+
+Desk-friendly stretches for students
+
+Breathing exercises for hormonal anxiety
+
+5️⃣ Productivity & Mood Planner (Hackathon Differentiator)
+
+AI predicts:
+
+Best days for:
+
+Exams
+
+Presentations
+
+Creative work
+
+Rest days
+
+Energy graph across cycle phases:
+
+Menstrual
+
+Follicular
+
+Ovulatory
+
+Luteal
+
+User sees:
+“Your high-focus window starts in 2 days.”
+
+6️⃣ Anonymous Community Support Wall
+
+Share symptoms anonymously
+
+AI filters misinformation
+
+Upvote helpful tips
+
+Verified medical advice tag
+
+7️⃣ Emergency & Health Safety Layer
+
+Detect abnormal:
+
+Bleeding duration
+
+Extreme pain
+
+Cycle gaps
+
+Suggest gynecologist visit when required
+
+Health insights dashboard
+
+AI Layer Requirements
+
+Use ML-based cycle prediction
+
+Rule-based + NLP symptom understanding
+
+Recommendation engine for food + exercise
+
+Mood pattern detection
+
+Tech Stack Suggestion
+
+Frontend: React + Tailwind (soft pastel UI)
+
+Backend: Node.js / Python (FastAPI)
+
+Database: PostgreSQL
+
+AI: Lightweight ML model + prompt-driven LLM
+
+Charts: Recharts or Chart.js
+
+UX Requirements
+
+Soft, calming color palette
+
+Non-clinical tone
+
+Gamified streak tracking
+
+“Self-care score” per cycle
+
+Mobile responsive design
+
+Innovation Angle (Winning Point)
+
+Add:
+
+“Cycle-based life optimizer”
+
+AI-generated cycle insights report (PDF export)
+
+Hormone-phase productivity suggestions
+
+Cultural diet personalization
+
+Monetization (Mention in Pitch)
+
+Freemium model
+
+Premium personalized insights
+
+Doctor consultation integration
+
+Nutritionist tie-up
+
+Hackathon Pitch Tagline
+
+“Not just a period tracker. A cycle intelligence system.
